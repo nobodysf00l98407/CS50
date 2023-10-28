@@ -12,4 +12,4 @@ Portfolio of my software development project requirements for Harvard's CS50 Com
 - [ ] TODO
 
 # Acknowlegements
-- [x]  [Dors Coding School](https://www.dorscodingschool.com/)# sc50
+- [x]  [Dors Coding School](https://www.dorscodingschool.com/)
