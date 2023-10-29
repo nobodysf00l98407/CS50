@@ -1,5 +1,5 @@
-# MyProjects
-Portfolio of my software development project requirements for Harvard's CS50 Computer Science, Python Programming, and Web Programming certification courses.
+# Web Development Projects
+Portfolio of software development project requirements for Harvard's CS50  Web Programming certification course.
 ---
 ![Harvard University](https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg)
 # About the Project

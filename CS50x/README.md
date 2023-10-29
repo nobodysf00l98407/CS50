@@ -1,4 +1,4 @@
-# Python Projects
+# Computer Science Projects
 Portfolio of software development project requirements for the Harvard CS50 Computer Science certification course.
 ---
 ![Harvard University](https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg)
