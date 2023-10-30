@@ -21,4 +21,4 @@ We welcome any and all contributions! Here are some ways you can get started:
 5. Wait for pull request to be merged
 
 ## Acknowlegements
-[x]  [Dors Coding School](https://www.dorscodingschool.com/)
+[x]  **[Dors Coding School](https://www.dorscodingschool.com/)**
