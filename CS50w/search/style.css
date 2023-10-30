@@ -66,6 +66,14 @@
     user-select: none;
 }
 
+
+.p-topnav{
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #202124;
+
+}
+
 .h1-advanced{
     color:#d93025;
     font-size: 20px;
