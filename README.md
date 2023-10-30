@@ -1,4 +1,4 @@
-# My Projects
+# My CS50 Projects
 Portfolio of project requirements for Harvard's CS50 Computer Science, Python Programming, and Web Programming certification courses.
 ---
 ![Harvard University](https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg)
